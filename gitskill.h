@@ -9,4 +9,4 @@
 #include <stdlib.h>
 using namespace std;
 
-Creating a new branch is quick & simple.
+Creating a new branchh is quick and simple.
