@@ -10,5 +10,7 @@ using namespace std;
 
 int main()
 {
+	cout << "running..." << endl;
+	cout << "add new line..." << endl;
 	return 0;
 }
