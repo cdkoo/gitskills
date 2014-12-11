@@ -12,5 +12,6 @@ int main()
 {
 	cout << "running..." << endl;
 	cout << "add new line..." << endl;
+	cout << "hello git, this is my test..." << endl;
 	return 0;
 }
